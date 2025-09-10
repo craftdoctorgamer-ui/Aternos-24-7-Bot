@@ -1,7 +1,7 @@
 {
     "server": {
-        "host": "your-aternos-server.aternos.me",
-        "port": 25565,
+        "host": "livecraft__fun.aternos.me",
+        "port": 35569,
         "version": "1.20.1"
     },
     "bot": {
